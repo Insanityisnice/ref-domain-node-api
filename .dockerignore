@@ -1,0 +1,8 @@
+# documentation
+.doc
+
+# git files
+.gitignore
+
+# vscode files
+.vscode

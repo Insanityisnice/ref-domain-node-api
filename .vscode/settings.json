@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+      "dockerfile.*": "dockerfile"
+    },
+    "files.exclude": {
+      "node_modules": true
+    }
+}

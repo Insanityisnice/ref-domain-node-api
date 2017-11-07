@@ -1,0 +1,26 @@
+{
+  "name": "ref-domain-node-api",
+  "version": "1.0.0",
+  "description": "A reference implementation of an api written in node.",
+  "main": "domainApi/index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node domainApi/index.js"
+  },
+  "author": "insanityisnice@hotmail.com",
+  "dependencies": {
+    "azure-function-express": "^1.2.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.81.0",
+    "log4js": "^1.1.1"
+  },
+  "devDependencies": {
+    "babel": "^5.8.21",
+    "babel-relay-plugin": "^0.1.2",
+    "babelify": "^6.2.0",
+    "cucumber": "^3.0.0",
+    "eslint": "^4.4.1",
+    "supertest": "^3.0.0"
+  }
+}
